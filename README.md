@@ -1,5 +1,5 @@
 # Desafio DevPro Phyton
- Desafios DevPro - Phyton e lista de exercícios da Phyton.org.br
+ Desafios DevPro - Phyton e [lista da Phyton Brasil](https://wiki.python.org.br/ListaDeExercicios)
  
  ## Estrutura Sequencial
  1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
